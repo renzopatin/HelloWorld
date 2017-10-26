@@ -17,7 +17,7 @@ public class Chicken{
 	}
 	
 	public void print(){
-		System.out.println("The name of the chicken is -->"+name+",Color: -->"+color+",Age: -->"+age+"");
+		System.out.println("\nThe name of the chicken is -->"+name+",Color: -->"+color+",Age: -->"+age+"");
 	} 
 	
 	public void initializeData(String name, String color, int age){
